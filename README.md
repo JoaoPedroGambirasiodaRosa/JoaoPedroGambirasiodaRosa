@@ -1,40 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=João%20Gambirasio&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=João%20Gambirasio&fontSize=70&fontColor=ffffff" width="100%" />
 
-### 👨‍💻 Desenvolvedor Full-Stack & Game Dev
-*Transformando ideias em código e experiências digitais.*
+### 👨‍💻 Full-Stack Developer | Game Designer | Founder
+*Desenvolvendo o futuro na Webturtle e Corchello Studios.*
 
 ---
 
 ### 🚀 Sobre Mim
-- 🐢 Fundador da **Webturtle** e **Corchello Studios**.
-- 🛠️ Atualmente focado no desenvolvimento do **VTT Online** e no RPG **Estigma: Memento Mori**.
-- 🎓 Freelance Front-end com foco em performance e estética.
+- 🐢 Desenvolvendo o ecossistema **Webturtle** e o **VTT Online**.
+- 🎲 Criador do RPG **Estigma: Memento Mori** pela **Corchello Studios**.
+- 💻 Focado em arquitetura limpa, performance e estética minimalista.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Stack |
+| Categoria | Stack Monocromática |
 | :--- | :--- |
-| **Web Front-end** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Web Back-end** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Game Dev** | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| **Outras** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Front-end** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) |
+| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| **Outros** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
-### 📊 Github Stats
+### 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroGambirasiodaRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroGambirasiodaRosa&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroGambirasiodaRosa&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroGambirasiodaRosa&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
 </div>
 
 ---
 
 ### 📫 Conecte-se Comigo
-[![Website](https://img.shields.io/badge/Webturtle-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webturtle.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![Website](https://img.shields.io/badge/Webturtle-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webturtle.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 </div>
